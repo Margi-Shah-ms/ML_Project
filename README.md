@@ -1,6 +1,10 @@
 # GMM-Based Consumer Sentiment Analysis
 
-## PDF 
+## PDF
+https://drive.google.com/file/d/1BYonA94lfWFYKhrS92iUhHi6mw83_JDL/view?usp=sharing
+
+## pptx
+https://docs.google.com/presentation/d/15yOHRlyNxsvWEX_LHLb0F_ig13ZOVEcE/edit?usp=sharing&ouid=103337296187085832625&rtpof=true&sd=true
 
 ## 📖 Project Overview
 This project applies Gaussian Mixture Models (GMM) to analyze consumer sentiment in online food delivery platforms. Instead of using predefined sentiment labels, the model identifies hidden customer segments based on satisfaction ratings and feedback patterns.
